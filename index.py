@@ -1,0 +1,6 @@
+print ( " Gladys Maina")
+product = ( "xbox" , 234.5)
+print (product)
+languages = ("python" , "web" , "dart")
+print(languages)
+print(languages[2])
